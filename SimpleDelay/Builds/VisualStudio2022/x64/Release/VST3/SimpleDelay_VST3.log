@@ -1,0 +1,7 @@
+﻿  Could Not Find C:\Users\Vir Malhotra\OneDrive\juce-8.0.0-windows\SimpleDelay\Builds\VisualStudio2022\x64\Release\VST3\SimpleDelay.vst3
+  Could Not Find C:\Users\Vir Malhotra\OneDrive\juce-8.0.0-windows\SimpleDelay\Builds\VisualStudio2022\x64\Release\VST3\SimpleDelay.vst3\Contents
+  Could Not Find C:\Users\Vir Malhotra\OneDrive\juce-8.0.0-windows\SimpleDelay\Builds\VisualStudio2022\x64\Release\VST3\SimpleDelay.vst3\Contents\x86_64-win
+  include_juce_audio_plugin_client_VST3.cpp
+     Creating library C:\Users\Vir Malhotra\OneDrive\juce-8.0.0-windows\SimpleDelay\Builds\VisualStudio2022\x64\Release\VST3\SimpleDelay.lib and object C:\Users\Vir Malhotra\OneDrive\juce-8.0.0-windows\SimpleDelay\Builds\VisualStudio2022\x64\Release\VST3\SimpleDelay.exp
+  Generating code
+LINK : fatal error LNK1257: code generation failed

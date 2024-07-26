@@ -1,0 +1,9 @@
+﻿  PluginEditor.cpp
+  PluginProcessor.cpp
+C:\Users\Vir Malhotra\OneDrive\juce-8.0.0-windows\SimpleDelay\Source\PluginProcessor.cpp(84,56): warning C4100: 'index': unreferenced formal parameter
+C:\Users\Vir Malhotra\OneDrive\juce-8.0.0-windows\SimpleDelay\Source\PluginProcessor.cpp(88,67): warning C4100: 'index': unreferenced formal parameter
+C:\Users\Vir Malhotra\OneDrive\juce-8.0.0-windows\SimpleDelay\Source\PluginProcessor.cpp(93,83): warning C4100: 'newName': unreferenced formal parameter
+C:\Users\Vir Malhotra\OneDrive\juce-8.0.0-windows\SimpleDelay\Source\PluginProcessor.cpp(93,56): warning C4100: 'index': unreferenced formal parameter
+C:\Users\Vir Malhotra\OneDrive\juce-8.0.0-windows\SimpleDelay\Source\PluginProcessor.cpp(98,71): warning C4100: 'samplesPerBlock': unreferenced formal parameter
+C:\Users\Vir Malhotra\OneDrive\juce-8.0.0-windows\SimpleDelay\Source\PluginProcessor.cpp(142,99): warning C4100: 'midiMessages': unreferenced formal parameter
+  SimpleDelay_SharedCode.vcxproj -> C:\Users\Vir Malhotra\OneDrive\juce-8.0.0-windows\SimpleDelay\Builds\VisualStudio2022\x64\Debug\Shared Code\SimpleDelay.lib
